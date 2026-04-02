@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Motivated Software Engineer focused on delivering reliable, high-quality software. Hands-on experience across the SDLC with web and mobile test automation (Selenium, Appium), API testing, and test frameworks (TestNG, Cucumber). Contributed to projects like Esifarish, Know Your Body Nepal, Yuwa, quiz apps, LMS, and multiple Flutter apps. Skilled in Java, Python, SQL, JIRA, and GitHub with 2+ years of QA and automation experience.
         </p>
       </div>
     </div>
